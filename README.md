@@ -10,4 +10,4 @@ R Packages used:
 tidyverse, sf, geodata, terra, classInt, ggplot2, rayshader
 
 Result Visualization:
-![Alt text]()
+![Alt text](https://github.com/SindhuSivakumar/3D-Forest-canopy-visualization/blob/main/Bavaria-forest-height.png)
